@@ -1,4 +1,4 @@
-# GovCMS Site HTML Mockup
+# data.gov.au Blog Site - HTML Mockup
 
 * Using Bootstrap 3 for frontend
 * All images should be vectors - no bitmaps here pls!
